@@ -14,3 +14,6 @@ El projecto pretende generar una red neuronal convolutiva para dectetar las [6 p
 # Dataset
 
 El dataset es un subset clasificado manualmente a partir del dataset [Anime Faces](https://www.kaggle.com/datasets/soumikrakshit/anime-faces)
+
+# Video 
+
