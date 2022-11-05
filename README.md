@@ -17,3 +17,4 @@ El dataset es un subset clasificado manualmente a partir del dataset [Anime Face
 
 # Video 
 
+[Video - Momento de Retroalimentación: Módulo 2 Implementación de un modelo de deep learning](https://youtu.be/2RRsTHXYyyM)
