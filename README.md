@@ -18,3 +18,10 @@ El dataset es un subset clasificado manualmente a partir del dataset [Anime Face
 # Video 
 
 [Video - Momento de Retroalimentación: Módulo 2 Implementación de un modelo de deep learning](https://youtu.be/2RRsTHXYyyM)
+
+# Cambios
+
+- Se agrego explicacion de la toma de decisiones para crear el modelo y su mejora.
+- Se explico las graficas.
+- Se creo un nuevo notebook donde poder llevar a cabo las predicciones.
+- Se creo un script de python donde poder llevar a cabo las predicciones desde la terminal.
